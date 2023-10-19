@@ -1,3 +1,4 @@
 This is a new file, it's got one line. How exciting. 
 Now there's two lines! 
-The first and second line is false.
+
+Removed a 2nd line and added a forth.
